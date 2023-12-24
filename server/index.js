@@ -7,7 +7,7 @@ const usersmodule = require("./models/users");
 const placemodule = require("./models/placesh");
 app.use(express.json());
 app.use(cors());
-mongoose.connect('mongodb+srv://explore:hubballi@cluster0.ziwcem1.mongodb.net/place?retryWrites=true&w=majority', {
+mongoose.connect(' MongoDB database link ', {
     useNewUrlParser: true,
 });
 
