@@ -1,7 +1,7 @@
 
 # WandererHub
 
-WandererHub is a ticket reservation system that uses MERN stack. The website currently shows ticket reservations for hotspots in hubballi 
+WandererHub is a ticket reservation system that utilizes the MERN stack. The website currently displays available ticket reservations for hotspots in Hubballi. It also features a payment gateway that becomes accessible once the ticket and number of tickets are selected.
 
 
 ## Installation
@@ -12,7 +12,7 @@ Install WandererHub with npm
   gh repo clone Adityadj01/WandererHub
   cd Client
   npm Install
-  cd..
+  cd ..
   cd Server
   npm Install
 ```
